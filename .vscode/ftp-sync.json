@@ -1,0 +1,26 @@
+{
+    "remotePath": "./www",
+    "host": "https://192.168.15.26",
+    "username": "root",
+    "password": "061153wT$",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": false,
+    "passive": true,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
